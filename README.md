@@ -1,4 +1,4 @@
-# Exercicío 2 de Programação com SQL
+# Exercício 2 de Programação com SQL
 
 Tabela do exercicío F
 
